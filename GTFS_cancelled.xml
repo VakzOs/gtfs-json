@@ -1,0 +1,19 @@
+<?xml version=""1.0"" encoding=""UTF-8"" standalone=""yes""?>
+<Siri xmlns=""http://www.siri.org.uk/siri"" xmlns:ns5=""http://www.opengis.net/gml/3.2"" xmlns:ns2=""http://www.ifopt.org.uk/acsb"" xmlns:ns4=""http://datex2.eu/schema/2_0RC1/2_0"" xmlns:ns3=""http://www.ifopt.org.uk/ifopt"">
+<ServiceDelivery>
+<StopMonitoringDelivery>
+<MonitoredStopVisitCancellation>
+<RecordedAtTime>2026-03-06T10:58:54.72696478+01:00</RecordedAtTime>
+<ItemRef>1-PISE1-R-2026-03-06T11:18+01:00[Europe/Paris]</ItemRef>
+<MonitoringRef>PISE1</MonitoringRef>
+<LineRef>1</LineRef>
+<VehicleJourneyRef>
+<DataFrameRef>any</DataFrameRef>
+<DatedVehicleJourneyRef>49300792-CR_25_26-HD26H305-Vendredi-00</DatedVehicleJourneyRef>
+</VehicleJourneyRef>
+</MonitoredStopVisitCancellation>
+</StopMonitoringDelivery>
+</ServiceDelivery>
+</Siri>
+
+ 
