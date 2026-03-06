@@ -4,8 +4,8 @@
 <StopMonitoringDelivery>
 <MonitoredStopVisitCancellation>
 <RecordedAtTime>2026-03-06T10:58:54.72696478+01:00</RecordedAtTime>
-<ItemRef>1-PISE1-R-2026-03-06T11:18+01:00[Europe/Paris]</ItemRef>
-<MonitoringRef>PISE1</MonitoringRef>
+<ItemRef>1-278201-R-2026-03-06T11:18+01:00[Europe/Paris]</ItemRef>
+<MonitoringRef>278201</MonitoringRef>
 <LineRef>1</LineRef>
 <VehicleJourneyRef>
 <DataFrameRef>any</DataFrameRef>
